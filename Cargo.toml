@@ -1,0 +1,16 @@
+[package]
+name = "cycler"
+version = "0.1.0"
+authors = ["Till Klocke <till.klocke@gmail.com>"]
+
+[lib]
+name = "cyclerlib"
+path = "src/lib.rs"
+
+[[bin]]
+name = "cycler"
+path = "src/main.rs"
+
+[dependencies]
+osmpbfreader = "0.12.0"
+haversine = "0.2.1"
