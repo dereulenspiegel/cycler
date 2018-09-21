@@ -17,7 +17,9 @@ Fahrradwege und die Länge aller Fahrradstraßen.
 # Aktuelle Ergebnisse (21.09.2018) für Dortmund
 Quelle: https://download.bbbike.org/osm/bbbike/Dortmund/Dortmund.osm.pbf
 
-| Länge der öffentlichen Straßen | 1747.88 km |
-| Länge der Fahrradspuren | 35.52 km |
-| Länge der baulich abgegrenzten Fahrradwege | 24.39 km |
-| Länge der Fahrradstraßen | 0 km |
+| Type | Länge |
+| ---- | ----- | 
+| Öffentlichen Straßen | 1747.88 km |
+| Fahrradspuren | 35.52 km |
+| Baulich abgegrenzte Fahrradwege | 24.39 km |
+| Fahrradstraßen | 0 km |
